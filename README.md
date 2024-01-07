@@ -25,3 +25,13 @@ Server is giving you these choices of seats and you pcan make your booking:
 6. Input ```rmiregistry & ``` and press **Enter** (Will activate a rmi registry).
 7. Input ```java Server &``` and press **Enter**  (Will start the RMI Server).
 8. Input ```java Cient``` and press **Enter**  (Will start the RMI Client).
+
+<h2>Photos</h2>
+
+![image](https://github.com/Mantzclb/Java-RMI-Client-Server-/assets/119366289/d96139b4-57ee-489b-ae41-c56d19728c08)
+
+![image](https://github.com/Mantzclb/Java-RMI-Client-Server-/assets/119366289/1478c745-7fa2-4cdf-9007-15274790525e)
+
+After successfull booking, available seats will get reduced by 1
+
+![image](https://github.com/Mantzclb/Java-RMI-Client-Server-/assets/119366289/ffe3fb73-d8e0-4dd6-ba59-0a14b2657186)
